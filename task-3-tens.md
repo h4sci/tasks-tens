@@ -1,2 +1,2 @@
-* Superclem/
-*Superdan
+* Superclem\
+* Superdan
